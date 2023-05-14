@@ -1,3 +1,3 @@
-def call(String nmae, String dayOfweek) {
+def call(String name, String dayOfweek) {
     echo "Hey Hello ${name}, Today is ${dayOfWeek} groovy day !!!"    
 }
